@@ -1,6 +1,6 @@
 # GridBalance: Simulation of Household Electricity Demand and Load-Shedding Under Limited and Unreliable Supply
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/](https://colab.research.google.com/drive/1yKuR09av0gbuXKYCMXP7slg9pG-x_qqf#scrollTo=2c6a4880))
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Validation Checks](https://img.shields.io/badge/Scientific%20Validation-4%2F4%20PASSED-success.svg)](#scientific-model-validation-suite)
@@ -169,7 +169,6 @@ jupyter lab GridBalance_Simulation.ipynb
 
 ```text
 .
-├── GridBalance_Simulation_Annotated.ipynb # Guided walkthrough notebook with detailed explanations before every section
 ├── GridBalance_Simulation.ipynb           # Standalone, fully executed Jupyter Notebook with embedded plots & outputs
 ├── requirements.txt                       # Minimal Python dependencies (numpy, pandas, matplotlib, seaborn, scipy)
 ├── README.md                              # Comprehensive project documentation
